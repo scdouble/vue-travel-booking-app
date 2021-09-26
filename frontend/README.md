@@ -1,4 +1,4 @@
-# vue-travel-booking-app
+# frontend
 
 ## Project setup
 ```
